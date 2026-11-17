@@ -222,3 +222,6 @@ Comprobamos que podemos ver la aplicación web en nuestro host en el buscador co
 # Incidencias
 
 **-Se realizo la tarea sin sufrir ninguna incidencia**
+
+
+[Ver screencast](screencash.mp4)
